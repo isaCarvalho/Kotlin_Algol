@@ -25,5 +25,6 @@ fun main()
         }
     }
 
-    println("Menor valor: $menor\nPosicao: $pos")
+    println("Menor valor: $menor")
+    println("Posicao: $pos")
 }
